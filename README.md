@@ -1,4 +1,4 @@
-# Wireless-Commutication-Networks-Emulation
+# Wireless-Communication-Networks-Emulation
 
 Implement this project using Python and Pygame. 
 
